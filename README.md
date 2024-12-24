@@ -1,9 +1,10 @@
 # Web quản lí trường học
-
-Đây l của web quản lí trường học 
-Bên Phía giáo admin trưòng học
+-Mỗi giáo và học sinh được cấp 1 tài khoản riêng
+Giao diện Đăng nhập 
+![example](./Images/login.jpg)
+Bên Phía admin trưòng học khi Đăng nhập
 ![example](./Images/dashboashTecher.jpg)
-Còn bên phía Giáo viên
+Còn bên phía Giáo viên khi đăng nhập
 ![example](./Images/f0e95f83d1546c0a3545.jpg)
 Bên Phía Admin trường ta sẽ được show danh sách giáo viên
 ![example](./Images/7efdb3a23d75802bd964.jpg)
@@ -11,24 +12,16 @@ Danh sách môn học
 ![example](./Images/4c37c86e46b9fbe7a2a8.jpg)
 Danh sách các lớp
 ![example](./Images/2b9bbceb323c8f62d62d.jpg)
+Admin có thể thếm học Sinh và giáo viên
+![example](./Images/addstudents.jpg) 
+![example](./Images/addtecher.jpg)  
+Và thêm xóa sửa tất cả tài khoản giáo viên
+![example](./Images/446f2b33a5e418ba41f5.jpg)  
+Giao Diện Khi học sinh đăng nhập
+![example](./Images/dashboashStu.jpg)  
+- học sinh có thể xem điểm và xem các sự kiện trường thông qua đây
+  ![example](./Images/e20705af887835266c69.jpg)
+  Thông báo
+  ![example](./Images/111bc8b34564f83aa175.jpg)
 
 
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
