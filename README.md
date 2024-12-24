@@ -1,10 +1,18 @@
-# Lama Dev School Management Dashboard
+# Web quản lí trường học
 
-## Getting Started
+Đây l của web quản lí trường học 
+Bên Phía giáo admin trưòng học
+![example](./images/dashboashTecher.jpg)
+Còn bên phía Giáo viên
+![example](./images/f0e95f83d1546c0a3545.jpg)
+Bên Phía Admin trường ta sẽ được show danh sách giáo viên
+![example](./images/7efdb3a23d75802bd964.jpg)
+Danh sách môn học
+![example](./images/4c37c86e46b9fbe7a2a8.jpg)
+Danh sách các lớp
+![example](./images/2b9bbceb323c8f62d62d.jpg)
 
-First, run the development server:
 
-```bash
 npm run dev
 # or
 yarn dev
