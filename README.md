@@ -2,15 +2,15 @@
 
 Đây l của web quản lí trường học 
 Bên Phía giáo admin trưòng học
-![example](./images/dashboashTecher.jpg)
+![example](./Images/dashboashTecher.jpg)
 Còn bên phía Giáo viên
-![example](./images/f0e95f83d1546c0a3545.jpg)
+![example](./Images/f0e95f83d1546c0a3545.jpg)
 Bên Phía Admin trường ta sẽ được show danh sách giáo viên
-![example](./images/7efdb3a23d75802bd964.jpg)
+![example](./Images/7efdb3a23d75802bd964.jpg)
 Danh sách môn học
-![example](./images/4c37c86e46b9fbe7a2a8.jpg)
+![example](./Images/4c37c86e46b9fbe7a2a8.jpg)
 Danh sách các lớp
-![example](./images/2b9bbceb323c8f62d62d.jpg)
+![example](./Images/2b9bbceb323c8f62d62d.jpg)
 
 
 npm run dev
